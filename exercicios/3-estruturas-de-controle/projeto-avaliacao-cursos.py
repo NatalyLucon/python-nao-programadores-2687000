@@ -22,5 +22,6 @@ if pergunta in curso_excel:
   nota[curso_excel] = int(input(f'Qual nota você da ao curso {curso_excel}: '))
 else:
   print(f'Não temos esse curso na lista.')
+
 print(nota)
 
