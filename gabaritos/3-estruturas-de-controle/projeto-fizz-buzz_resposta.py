@@ -6,7 +6,7 @@
 # 3.2 Caso o número seja divisível por 5, substitua-o por "Buzz"
 # 3.3 Caso o número seja divisível por 3 e 5, substitua-o por "FizzBuzz"
 
-lista_numeros = list(range(15,31))
+lista_numeros = list(range(0,15))
 indice = 0
 print(lista_numeros)
 
